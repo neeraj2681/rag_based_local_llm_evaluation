@@ -1,0 +1,7 @@
+pypdf
+docarray
+langchain_community
+# langchain_openai
+langchain_core
+langchain
+operator
